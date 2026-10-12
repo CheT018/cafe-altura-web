@@ -1,0 +1,16 @@
+*.log
+*.pyc
+*.tmp
+
+node_modules/
+build/
+dist/
+bin/
+
+.env*
+!.env.example
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
